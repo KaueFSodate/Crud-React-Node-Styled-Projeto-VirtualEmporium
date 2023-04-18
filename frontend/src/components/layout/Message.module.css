@@ -1,0 +1,20 @@
+.message{
+    max-width: 60%;
+    padding: 1em;
+    border: 1px solid #000;
+    margin: 1em auto;
+    text-align: center;
+    border-radius: 5px;
+}
+
+.sucess{
+    color: green;
+    border-color: azure;
+    background-color: #9EE493;
+}
+
+.error{
+    color: black;
+    background-color: #CE4760;
+    border-color: azure;
+}
